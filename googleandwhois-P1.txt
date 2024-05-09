@@ -1,0 +1,8 @@
+//--------------- google adv search (prac 1)
+
+inurl:"vartak"
+allinurl:"vartak college"
+blogurl:"how to be happ"
+site:"apple.com  contact"
+intitle:"cosmology"
+allintitle:"cosmology astrology"

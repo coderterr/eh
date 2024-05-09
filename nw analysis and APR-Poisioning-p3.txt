@@ -1,0 +1,16 @@
+/--------------- n/w analysis and arp poisioning 
+
+A)
+
+ipconfig
+ipconfig/displaydns
+ipconfig/release
+ping google.com 
+netstat
+tracert facebook.com
+
+B)
+
+@kali arp -a
+@kali arpspoof -i eth0 -t  <Target ip> <gateway>
+

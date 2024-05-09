@@ -1,0 +1,12 @@
+   
+//----------------nmap
+
+nmap -v scanme.nmap.org
+sudo nmap -sA -T4 scanme.nmap.org   # ACK scan
+nmap -p23,133 scanme.nmap.org   #PORT scan
+nmap -sS scanme.nmap.org   #SYN scan
+nmap -sF -T4 scanme.nmap.org   #FIN scan
+Sudo nmap -sN -p22 scanme.nmap.org #NULL scan
+sudo nmap -sX -T4 scanme.nmap.org   #XMAS scan
+
+
